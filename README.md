@@ -35,50 +35,8 @@ This website is custom-crafted for **SKS Trinity Infrabuild**, accurately transl
    - `07` Finishing Works (Plaster, tiles, Italian marble, façade)
    - `08` Estimation & Supervision (BOQ, quantity estimation, site audits)
 
-5. **7-Stage Project Execution Methodology (Page 5):**
-   - Interactive step-by-step viewer covering Requirement & Scope, Planning & Estimation, Site Preparation, Structural Execution, Masonry & Services, Finishing & Quality Review, and Handover.
 
-6. **Interactive Construction Cost & Estimation Calculator:**
-   - Real-time cost estimator tuned to Lucknow real estate benchmarks.
-   - Select project type, adjust built-up area slider (500 to 15,000+ sq.ft), choose material tier (Standard, Premium, Luxury).
-   - Instant cost breakdown: Civil/RCC, Finishing, MEP/Sanitary, and Engineering Supervision.
-   - Direct button to **Send Estimate to Shivakant on WhatsApp** with auto-formatted inquiry parameters.
 
-7. **Quality & Safety Rigor (Page 6):**
-   - Quality control benchmarks, safety culture protocols, and 6 on-site focal points.
-
-8. **Why Choose SKS Trinity Infrabuild (Page 7):**
-   - 6 differentiators with the signature quote: *"Every project is an opportunity to build something that lasts."*
-
-9. **Filterable Project Portfolio & Inspection Modal (Page 8):**
-   - Interactive project showcase (Residential, Commercial, RCC, Turnkey).
-   - Click to inspect full engineering deliverables, specifications, area, and status.
-
-10. **Leadership & Organization Structure (Page 9):**
-    - Director profile for **Shivakant**.
-    - Three wings: Project Management, Site Execution, and Support & Coordination.
-    - Team philosophy.
-
-11. **Direct Contact, Site Visit Form & WhatsApp Dispatch (Page 10):**
-    - Direct contact details: Phone `9519823393`, Email `shivakant.007143@gmail.com`, Gomti Nagar Lucknow office.
-    - Consultation booking form with persistent local storage and automatic WhatsApp dispatch.
-    - Floating action buttons for WhatsApp and Phone.
-
----
-
-## 🚀 How to Open and View
-
-1. **Directly in Browser:**  
-   Navigate to:  
-   `C:\Users\yaduvanshyvijay\.gemini\antigravity\scratch\sks-trinity-infrabuild\index.html`  
-   Double click the `index.html` file in Windows File Explorer or right click and choose **Open with Google Chrome / Microsoft Edge**.
-
-2. **Or via Local Server (e.g. VS Code Live Server or python http.server):**  
-   Serve the folder `C:\Users\yaduvanshyvijay\.gemini\antigravity\scratch\sks-trinity-infrabuild`.
-
----
-
-## 📁 File Structure
 
 ```
 sks-trinity-infrabuild/
