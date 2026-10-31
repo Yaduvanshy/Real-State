@@ -1,7 +1,9 @@
 /**
  * SKS TRINITY INFRABUILD
  * Interactive Application & Client Engineering Suite
- * Founder / Director: Shivakant (9519823393)
+ * Founder: Er. Shivakant (9519823393)
+ * Er. Skand Gupta Manas (7037647788)
+ * Shubham Goel (9044471801)
  * Gomti Nagar, Lucknow, Uttar Pradesh
  */
 

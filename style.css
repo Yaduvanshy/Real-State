@@ -15,11 +15,15 @@
   --color-gold-600: #B38E22;
   --color-gold-700: #8C6D14;
 
-  --color-bg-dark: #080C15;
-  --color-bg-card: rgba(17, 24, 39, 0.75);
-  --color-bg-elevated: #0f172a;
-  --color-border: rgba(212, 175, 55, 0.2);
-  --color-border-subtle: rgba(255, 255, 255, 0.08);
+  --color-logo-gold: #C9A227;
+  --color-logo-silver: #8E9AAB;
+  --color-logo-steel: #3D4A58;
+  --color-logo-wave: #5B8FA8;
+  --color-bg-dark: #F7F8FA;
+  --color-bg-card: #FFFFFF;
+  --color-bg-elevated: #FFFFFF;
+  --color-border: rgba(201, 162, 39, 0.28);
+  --color-border-subtle: rgba(61, 74, 88, 0.08);
 }
 
 * {
