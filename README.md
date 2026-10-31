@@ -18,9 +18,11 @@
 
 ## Overview
 
-Official web portal for **SKS Trinity Infrabuild**, civil engineering contractors and real estate builders based in Gomti Nagar, Lucknow. The website features an executive **Light Theme** aligned with the official corporate logo color palette:
+Official web platform for **SKS Trinity Infrabuild**, civil engineering contractors and real estate builders based in Gomti Nagar, Lucknow. The website features an executive **Light Theme** aligned with the official corporate logo color palette and premium architectural typography:
 
-- **Logo Charcoal Slate:** `#1E2832` / `#141C24` (Top bar, footers, technical panels, high-contrast typography)
+- **Primary Headings Typography:** **`Outfit`** (Google Fonts) — sharp, geometric, modern architectural cuts.
+- **Body & Content Typography:** **`Plus Jakarta Sans`** (Google Fonts) — open counters, exceptional readability and hierarchy.
+- **Logo Charcoal Slate:** `#1E2832` / `#141C24` (Top bar, footers, headers, crisp high-contrast typography)
 - **Logo Metallic Gold:** `#C5A038` / `#9A7B1A` (Primary brand accent, icons, badges, borders)
 - **Logo Gomti Wave Blue:** `#2B5876` / `#4A7C99` (Secondary brand accent, retrofitting badges)
 - **Architectural Canvas:** `#F8F9FA` with pure `#FFFFFF` card surfaces
@@ -50,18 +52,18 @@ Official web portal for **SKS Trinity Infrabuild**, civil engineering contractor
    - Finishing & Façade Works (Italian marble, waterproofing, exterior texture)
    - Project Estimation & Supervision (BOQ, quantity takeoff, daily site engineering audits)
 
-5. **Interactive Construction Cost & Estimation Calculator:**
-   - Real-time cost estimator calibrated to Lucknow and Uttar Pradesh construction rates.
-   - Area slider (500 to 15,000+ sq.ft) with instant budget breakdowns across Civil, Finishing, MEP/Sanitary, and Supervision.
-   - Clean Indian Rupee formatting (&#8377;).
-   - Instant **"Send Estimate via WhatsApp"** button dispatching project parameters directly to Er. Shivakant.
+5. **7-Stage Project Execution Methodology:**
+   - Systematic workflow from scope definition and estimation to structural execution, quality reviews, and handover.
 
-6. **Leadership & Organization Structure:**
+6. **Quality & Safety Rigor:**
+   - Quality control benchmarks, safety culture protocols, and 6 on-site focus checks (grade mix proportions, rebar spacing, shuttering rigidity, curing regimen, masonry alignment, housekeeping).
+
+7. **Leadership & Organization Structure:**
    - **Er. Shivakant** - Founder & Managing Director (+91 9519823393)
    - **Er. Skand Gupta Manas** - Structural & Civil Engineering (+91 7037647788)
    - **Shubham Goel** - Operations & Commercial Coordination (+91 9044471801)
 
-7. **Direct Contact, Site Visit Booking & Quick Connect:**
+8. **Direct Contact, Site Visit Booking & Quick Connect:**
    - Contact form with local storage persistence and automated WhatsApp dispatch.
    - Floating WhatsApp and Phone quick action buttons.
    - Clean SVG vector icons for 100% crisp rendering across all screen densities.
@@ -72,11 +74,11 @@ Official web portal for **SKS Trinity Infrabuild**, civil engineering contractor
 
 ```
 sks-trinity-infrabuild/
-├── index.html          # Self-contained single-page website with embedded logo
+├── index.html          # Self-contained single-page website with embedded logo & typography
 ├── logo.jpg            # Official corporate brand identity
 ├── logo-symbol.jpg     # Official emblem symbol
-├── style.css           # Modular stylesheet with logo color variables
-├── script.js           # Interactive calculator, navigation & contact handlers
+├── style.css           # Modular stylesheet with Outfit & Plus Jakarta Sans typography
+├── script.js           # Interactive navigation & contact handlers
 └── README.md           # Documentation and project walkthrough
 ```
 
