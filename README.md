@@ -4,7 +4,7 @@
 **Location:** Gomti Nagar, Lucknow, Uttar Pradesh  
 **Founder:** Er. Shivakant (+91 9519823393)  
 **Engineering:** Er. Skand Gupta Manas (+91 7037647788)  
-**Team:** Shubham Goel (+91 9044471801)  
+**Operations & Commercial:** Er. Shubham Goel (+91 9044471801)  
 **Email:** skstrinityinfrabuild@gmail.com  
 
 ---
@@ -18,23 +18,26 @@
 
 ## Overview
 
-Official web platform for **SKS Trinity Infrabuild**, civil engineering contractors and real estate builders based in Gomti Nagar, Lucknow. The website features an executive **Light Theme** aligned with the official corporate logo color palette and premium architectural typography:
+Official web platform for **SKS Trinity Infrabuild**, civil engineering contractors, structural retrofitting experts, and waterproofing specialists based in Gomti Nagar, Lucknow. The website features an executive **Mobile-First Light Theme** aligned with the official corporate logo color palette and premium architectural typography:
 
+- **Mobile-First Architecture:** Responsive fluid containers, touch-optimized targets (>=48px), sticky mobile quick-action conversion bar (Call, WhatsApp, Consult), and zero horizontal overflow.
 - **Primary Headings Typography:** **`Outfit`** (Google Fonts) — sharp, geometric, modern architectural cuts.
 - **Body & Content Typography:** **`Plus Jakarta Sans`** (Google Fonts) — open counters, exceptional readability and hierarchy.
 - **Logo Charcoal Slate:** `#1E2832` / `#141C24` (Top bar, footers, headers, crisp high-contrast typography)
 - **Logo Metallic Gold:** `#C5A038` / `#9A7B1A` (Primary brand accent, icons, badges, borders)
 - **Logo Gomti Wave Blue:** `#2B5876` / `#4A7C99` (Secondary brand accent, retrofitting badges)
+- **Specialized Waterproofing Teal:** `#0D9488` (Advanced chemical & membrane waterproofing accent)
 - **Architectural Canvas:** `#F8F9FA` with pure `#FFFFFF` card surfaces
 
 ---
 
 ## Key Features
 
-1. **Brand Identity & Header:**
+1. **Mobile-First Brand Header & Sticky Action Bar:**
    - Official SKS Trinity Infrabuild emblem integrated via high-resolution base64 for offline & online portability.
-   - Quick contact bar with one-click direct dialing and email.
-   - Clean, modern light navigation with responsive mobile menu.
+   - Top contact bar with direct engineering tap-to-call lines (Er. Skand, Er. Shivakant, Er. Shubham Goel).
+   - Mobile slide-down menu with direct engineer call shortcuts and WhatsApp links.
+   - Fixed mobile bottom conversion bar (`Call Now`, `WhatsApp`, `Consult`) for maximum client reach.
 
 2. **Core Pillars & Operational Philosophy:**
    - 5-step operational philosophy: Client requirements, planning before execution, quality-conscious materials, systematic supervision, and clear milestone communication.
@@ -44,13 +47,17 @@ Official web platform for **SKS Trinity Infrabuild**, civil engineering contract
    - Vision & Mission for infrastructure and civil construction across Uttar Pradesh.
    - 6 Values: Quality, Integrity, Safety, Commitment, Customer Focus, and Excellence.
 
-4. **Core Services Breakdown:**
-   - New Building Work (RCC framed structures, villas, commercial plazas)
-   - Retrofitting Work (Carbon fiber wrapping, concrete jacketing, pressure grouting, rebaring)
-   - Renovation & Remodeling Work (Turnkey renovations, architectural modifications)
-   - Structural & Foundation Works (Soil stabilization, deep foundations, grade beams)
-   - Finishing & Façade Works (Italian marble, waterproofing, exterior texture)
-   - Project Estimation & Supervision (BOQ, quantity takeoff, daily site engineering audits)
+4. **4 Core Services Breakdown:**
+   - `01` **New Building Work:** RCC framed structures, villas, duplexes, commercial complexes.
+   - `02` **Retrofitting Work:** Carbon fiber wrapping, concrete column/beam jacketing, chemical rebaring, micro-concreting.
+   - `03` **Renovation Work:** Turnkey remodeling, architectural modifications, marble flooring, weather-proof façade painting.
+   - `04` **Waterproofing Solutions (All Types):**
+     - *Terrace & Roof:* Multi-layer elastomeric membrane, APP torch-on sheet, UV-resistant PU liquid membrane.
+     - *Basement & Retaining Walls:* External HDPE sheet membrane, negative-side crystalline tanking, box-type waterproofing.
+     - *Bathrooms & Wet Areas:* Polymer-modified cementitious coatings, flexible corner joint sealing.
+     - *Expansion Joints & Cracks:* High-pressure polyurethane (PU) and epoxy injection grouting.
+     - *Water Tanks & Sumps:* Food-grade non-toxic epoxy coatings, crystalline hydrostatic barriers.
+     - *Podium & Sunken Slabs:* Drainage cell boards, geotextile filtration, brick bat coba gradient waterproofing.
 
 5. **7-Stage Project Execution Methodology:**
    - Systematic workflow from scope definition and estimation to structural execution, quality reviews, and handover.
@@ -61,11 +68,11 @@ Official web platform for **SKS Trinity Infrabuild**, civil engineering contract
 7. **Leadership & Organization Structure:**
    - **Er. Shivakant** - Founder & Managing Director (+91 9519823393)
    - **Er. Skand Gupta Manas** - Structural & Civil Engineering (+91 7037647788)
-   - **Shubham Goel** - Operations & Commercial Coordination (+91 9044471801)
+   - **Er. Shubham Goel** - Operations & Commercial Coordination (+91 9044471801)
 
 8. **Direct Contact, Site Visit Booking & Quick Connect:**
    - Contact form with local storage persistence and automated WhatsApp dispatch.
-   - Floating WhatsApp and Phone quick action buttons.
+   - Direct dialing for all three project engineers.
    - Clean SVG vector icons for 100% crisp rendering across all screen densities.
 
 ---
@@ -74,7 +81,7 @@ Official web platform for **SKS Trinity Infrabuild**, civil engineering contract
 
 ```
 sks-trinity-infrabuild/
-├── index.html          # Self-contained single-page website with embedded logo & typography
+├── index.html          # Self-contained single-page website with mobile-first layout
 ├── logo.jpg            # Official corporate brand identity
 ├── logo-symbol.jpg     # Official emblem symbol
 ├── style.css           # Modular stylesheet with Outfit & Plus Jakarta Sans typography
